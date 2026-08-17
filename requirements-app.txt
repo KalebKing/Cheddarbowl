@@ -1,0 +1,12 @@
+# Runtime dependencies for the packaged desktop app (embedded-Python dist).
+# Slimmer than requirements.txt: no Playwright (auth + browser lookup are Playwright-free now),
+# no bs4/lxml (only the retired NFL parser used them). Uses the user's installed Edge/Chrome.
+# Pinned to the exact versions validated in dev this session (reproducible dist, no surprise upgrades).
+requests>=2.31
+pandas==3.0.5
+numpy==2.5.1
+streamlit==1.60.0
+streamlit-sortables>=0.3
+filelock>=3.13
+websockets>=12.0
+espn-api>=0.44

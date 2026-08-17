@@ -1,0 +1,13 @@
+# Cheddarbowl — retro 80s arcade cyberpunk base theme.
+# CSS in app.py (_THEME_CSS) layers on neon glows/borders/fonts; this sets the
+# base palette that also colors canvas-rendered widgets (dataframes, progress bars).
+[theme]
+base = "dark"
+primaryColor = "#ff2bd6"              # hot magenta (progress bars, sliders, focus)
+backgroundColor = "#0b0714"           # near-black violet
+secondaryBackgroundColor = "#160b28"  # deep purple (sidebar, tiles, table header)
+textColor = "#e8e6ff"
+font = "monospace"
+
+[browser]
+gatherUsageStats = false

@@ -1,0 +1,181 @@
+pick,round,team_id,team_name,manager,player,pos,nfl_team,player_id
+1,1,8,Minimal Research Involved,Benjamin,Jahmyr Gibbs,RB,DET,4429795
+2,1,12,Here4friendship,Amanda,Bijan Robinson,RB,ATL,4430807
+3,1,5,Count Choculitis,Kaleb,Puka Nacua,WR,LAR,4426515
+4,1,2,Mister Congeniality,Nick,Jaxon Smith-Njigba,WR,SEA,4430878
+5,1,6,Keepinit2gthr,Aniela,Ja'Marr Chase,WR,CIN,4362628
+6,1,13,Ghostie,Cheddarbowl,Christian McCaffrey,RB,SF,3117251
+7,1,1,Nobody's Perfect,Alli,Amon-Ra St. Brown,WR,DET,4374302
+8,1,11,Holder of the cheesehead,Grant,Jonathan Taylor,RB,IND,4242335
+9,1,10,Mozzarellen,Ellen,CeeDee Lamb,WR,DAL,4241389
+10,1,4,The Thirsty Whales,Alex,James Cook III,RB,BUF,4379399
+11,1,9,Great Noreaster,nora,De'Von Achane,RB,MIA,4429160
+12,1,3,MC Clap Yo Handz,Kristina,Justin Jefferson,WR,MIN,4262921
+13,2,3,MC Clap Yo Handz,Kristina,Jeremiyah Love,RB,ARI,4870808
+14,2,9,Great Noreaster,nora,Rashee Rice,WR,KC,4428331
+15,2,4,The Thirsty Whales,Alex,Derrick Henry,RB,BAL,3043078
+16,2,10,Mozzarellen,Ellen,Ashton Jeanty,RB,LV,4890973
+17,2,11,Holder of the cheesehead,Grant,Chase Brown,RB,CIN,4362238
+18,2,1,Nobody's Perfect,Alli,Omarion Hampton,RB,LAC,4685382
+19,2,13,Ghostie,Cheddarbowl,Drake London,WR,ATL,4426502
+20,2,6,Keepinit2gthr,Aniela,Saquon Barkley,RB,PHI,3929630
+21,2,2,Mister Congeniality,Nick,Kenneth Walker III,RB,KC,4567048
+22,2,5,Count Choculitis,Kaleb,Trey McBride,TE,ARI,4361307
+23,2,12,Here4friendship,Amanda,Brock Bowers,TE,LV,4432665
+24,2,8,Minimal Research Involved,Benjamin,A.J. Brown,WR,NE,4047646
+25,3,8,Minimal Research Involved,Benjamin,Malik Nabers,WR,NYG,4595348
+26,3,12,Here4friendship,Amanda,Javonte Williams,RB,DAL,4361579
+27,3,5,Count Choculitis,Kaleb,Josh Allen,QB,BUF,3918298
+28,3,2,Mister Congeniality,Nick,Josh Jacobs,RB,GB,4047365
+29,3,6,Keepinit2gthr,Aniela,Breece Hall,RB,NYJ,4427366
+30,3,13,Ghostie,Cheddarbowl,Nico Collins,WR,HOU,4258173
+31,3,1,Nobody's Perfect,Alli,Kyren Williams,RB,LAR,4430737
+32,3,11,Holder of the cheesehead,Grant,George Pickens,WR,DAL,4426354
+33,3,10,Mozzarellen,Ellen,Chris Olave,WR,NO,4361370
+34,3,4,The Thirsty Whales,Alex,Tetairoa McMillan,WR,CAR,4685472
+35,3,9,Great Noreaster,nora,Travis Etienne Jr.,RB,NO,4239996
+36,3,3,MC Clap Yo Handz,Kristina,DeVonta Smith,WR,PHI,4241478
+37,4,3,MC Clap Yo Handz,Kristina,Davante Adams,WR,LAR,16800
+38,4,9,Great Noreaster,nora,Zay Flowers,WR,BAL,4429615
+39,4,4,The Thirsty Whales,Alex,Emeka Egbuka,WR,TB,4567750
+40,4,10,Mozzarellen,Ellen,Cam Skattebo,RB,NYG,4696981
+41,4,11,Holder of the cheesehead,Grant,Garrett Wilson,WR,NYJ,4569618
+42,4,1,Nobody's Perfect,Alli,Colston Loveland,TE,CHI,4723086
+43,4,13,Ghostie,Cheddarbowl,Quinshon Judkins,RB,CLE,4685702
+44,4,6,Keepinit2gthr,Aniela,Bucky Irving,RB,TB,4596448
+45,4,2,Mister Congeniality,Nick,Ladd McConkey,WR,LAC,4612826
+46,4,5,Count Choculitis,Kaleb,Tee Higgins,WR,CIN,4239993
+47,4,12,Here4friendship,Amanda,Rome Odunze,WR,CHI,4431299
+48,4,8,Minimal Research Involved,Benjamin,Bhayshul Tuten,RB,JAX,4882093
+49,5,8,Minimal Research Involved,Benjamin,Tyler Warren,TE,IND,4431459
+50,5,12,Here4friendship,Amanda,Lamar Jackson,QB,BAL,3916387
+51,5,5,Count Choculitis,Kaleb,D'Andre Swift,RB,CHI,4259545
+52,5,2,Mister Congeniality,Nick,Drake Maye,QB,NE,4431452
+53,5,6,Keepinit2gthr,Aniela,Terry McLaurin,WR,WAS,3121422
+54,5,13,Ghostie,Cheddarbowl,Jaylen Waddle,WR,DEN,4372016
+55,5,1,Nobody's Perfect,Alli,DJ Moore,WR,BUF,3915416
+56,5,11,Holder of the cheesehead,Grant,Jameson Williams,WR,DET,4426388
+57,5,10,Mozzarellen,Ellen,Jalen Hurts,QB,PHI,4040715
+58,5,4,The Thirsty Whales,Alex,Luther Burden III,WR,CHI,4685278
+59,5,9,Great Noreaster,nora,Jayden Daniels,QB,WAS,4426348
+60,5,3,MC Clap Yo Handz,Kristina,David Montgomery,RB,HOU,4035538
+61,6,3,MC Clap Yo Handz,Kristina,TreVeyon Henderson,RB,NE,4432710
+62,6,9,Great Noreaster,nora,Jadarian Price,RB,SEA,4685512
+63,6,4,The Thirsty Whales,Alex,Harold Fannin Jr.,TE,CLE,5083076
+64,6,10,Mozzarellen,Ellen,Carnell Tate,WR,TEN,4871023
+65,6,11,Holder of the cheesehead,Grant,Marvin Harrison Jr.,WR,ARI,4432708
+66,6,1,Nobody's Perfect,Alli,Tony Pollard,RB,TEN,3916148
+67,6,13,Ghostie,Cheddarbowl,Courtland Sutton,WR,DEN,3128429
+68,6,6,Keepinit2gthr,Aniela,Kyle Pitts Sr.,TE,ATL,4360248
+69,6,2,Mister Congeniality,Nick,Sam LaPorta,TE,DET,4430027
+70,6,5,Count Choculitis,Kaleb,Alec Pierce,WR,IND,4360078
+71,6,12,Here4friendship,Amanda,Mike Evans,WR,SF,16737
+72,6,8,Minimal Research Involved,Benjamin,Trevor Lawrence,QB,JAX,4360310
+73,7,8,Minimal Research Involved,Benjamin,Christian Watson,WR,GB,4248528
+74,7,12,Here4friendship,Amanda,Matthew Golden,WR,GB,4701936
+75,7,5,Count Choculitis,Kaleb,Jaylen Warren,RB,PIT,4569987
+76,7,2,Mister Congeniality,Nick,DK Metcalf,WR,PIT,4047650
+77,7,6,Keepinit2gthr,Aniela,Joe Burrow,QB,CIN,3915511
+78,7,13,Ghostie,Cheddarbowl,Michael Pittman Jr.,WR,PIT,4035687
+79,7,1,Nobody's Perfect,Alli,Justin Herbert,QB,LAC,4038941
+80,7,11,Holder of the cheesehead,Grant,Jordyn Tyson,WR,NO,4880281
+81,7,10,Mozzarellen,Ellen,Jaxson Dart,QB,NYG,4689114
+82,7,4,The Thirsty Whales,Alex,Brock Purdy,QB,SF,4361741
+83,7,9,Great Noreaster,nora,Parker Washington,WR,JAX,4432620
+84,7,3,MC Clap Yo Handz,Kristina,Matthew Stafford,QB,LAR,12483
+85,8,3,MC Clap Yo Handz,Kristina,Jake Ferguson,TE,DAL,4242355
+86,8,9,Great Noreaster,nora,Michael Wilson,WR,ARI,4360761
+87,8,4,The Thirsty Whales,Alex,Jordan Addison,WR,MIN,4429205
+88,8,10,Mozzarellen,Ellen,Brian Thomas Jr.,WR,JAX,4432773
+89,8,11,Holder of the cheesehead,Grant,Tucker Kraft,TE,GB,4572680
+90,8,1,Nobody's Perfect,Alli,Josh Downs,WR,IND,4688813
+91,8,13,Ghostie,Cheddarbowl,Dak Prescott,QB,DAL,2577417
+92,8,6,Keepinit2gthr,Aniela,Bo Nix,QB,DEN,4426338
+93,8,2,Mister Congeniality,Nick,Chuba Hubbard,RB,CAR,4241416
+94,8,5,Count Choculitis,Kaleb,Rhamondre Stevenson,RB,NE,4569173
+95,8,12,Here4friendship,Amanda,Jakobi Meyers,WR,JAX,3916433
+96,8,8,Minimal Research Involved,Benjamin,Wan'Dale Robinson,WR,TEN,4569587
+97,9,8,Minimal Research Involved,Benjamin,Kenny Gainwell,RB,TB,4371733
+98,9,12,Here4friendship,Amanda,Rico Dowdle,RB,PIT,4038815
+99,9,5,Count Choculitis,Kaleb,RJ Harvey,RB,DEN,4568490
+100,9,2,Mister Congeniality,Nick,Dallas Goedert,TE,PHI,3121023
+101,9,6,Keepinit2gthr,Aniela,Travis Hunter,WR,JAX,4685415
+102,9,13,Ghostie,Cheddarbowl,Caleb Williams,QB,CHI,4431611
+103,9,1,Nobody's Perfect,Alli,Rachaad White,RB,WAS,4697815
+104,9,11,Holder of the cheesehead,Grant,J.K. Dobbins,RB,DEN,4241985
+105,9,10,Mozzarellen,Ellen,Aaron Jones Sr.,RB,MIN,3042519
+106,9,4,The Thirsty Whales,Alex,Kyle Monangai,RB,CHI,4608686
+107,9,9,Great Noreaster,nora,Jonathon Brooks,RB,CAR,4678008
+108,9,3,MC Clap Yo Handz,Kristina,Texans D/ST,DST,HOU,-16034
+109,10,3,MC Clap Yo Handz,Kristina,George Kittle,TE,SF,3040151
+110,10,9,Great Noreaster,nora,Jacory Croskey-Merritt,RB,WAS,4575131
+111,10,4,The Thirsty Whales,Alex,Travis Kelce,TE,KC,15847
+112,10,10,Mozzarellen,Ellen,T.J. Hockenson,TE,MIN,4036133
+113,10,11,Holder of the cheesehead,Grant,Kyler Murray,QB,MIN,3917315
+114,10,1,Nobody's Perfect,Alli,Jayden Reed,WR,GB,4362249
+115,10,13,Ghostie,Cheddarbowl,Khalil Shakir,WR,BUF,4373678
+116,10,6,Keepinit2gthr,Aniela,Mark Andrews,TE,BAL,3116365
+117,10,2,Mister Congeniality,Nick,Blake Corum,RB,LAR,4429096
+118,10,5,Count Choculitis,Kaleb,Quentin Johnston,WR,LAC,4429025
+119,10,12,Here4friendship,Amanda,Isiah Pacheco,RB,DET,4361529
+120,10,8,Minimal Research Involved,Benjamin,Patrick Mahomes,QB,KC,3139477
+121,11,8,Minimal Research Involved,Benjamin,Makai Lemon,WR,PHI,4870795
+122,11,12,Here4friendship,Amanda,Deebo Samuel Sr.,WR,SF,3126486
+123,11,5,Count Choculitis,Kaleb,Romeo Doubs,WR,NE,4361432
+124,11,2,Mister Congeniality,Nick,Jordan Love,QB,GB,4036378
+125,11,6,Keepinit2gthr,Aniela,Xavier Worthy,WR,KC,4683062
+126,11,13,Ghostie,Cheddarbowl,Kenyon Sadiq,TE,NYJ,5083315
+127,11,1,Nobody's Perfect,Alli,Brandon Aubrey,K,DAL,3953687
+128,11,11,Holder of the cheesehead,Grant,Terrance Ferguson,TE,LAR,4570037
+129,11,10,Mozzarellen,Ellen,Woody Marks,RB,HOU,4429059
+130,11,4,The Thirsty Whales,Alex,KC Concepcion,WR,CLE,4870653
+131,11,9,Great Noreaster,nora,Cameron Dicker,K,LAC,4362081
+132,11,3,MC Clap Yo Handz,Kristina,Stefon Diggs,WR,WAS,2976212
+133,12,3,MC Clap Yo Handz,Kristina,Alvin Kamara,RB,NO,3054850
+134,12,9,Great Noreaster,nora,Broncos D/ST,DST,DEN,-16007
+135,12,4,The Thirsty Whales,Alex,Chris Godwin Jr.,WR,TB,3116165
+136,12,10,Mozzarellen,Ellen,Jalen Coker,WR,CAR,4695883
+137,12,11,Holder of the cheesehead,Grant,Rams D/ST,DST,LAR,-16014
+138,12,1,Nobody's Perfect,Alli,Isaiah Likely,TE,NYG,4361050
+139,12,13,Ghostie,Cheddarbowl,Dalton Kincaid,TE,BUF,4385690
+140,12,6,Keepinit2gthr,Aniela,Jordan Mason,RB,MIN,4360569
+141,12,2,Mister Congeniality,Nick,Jayden Higgins,WR,HOU,4877706
+142,12,5,Count Choculitis,Kaleb,Jason Myers,K,SEA,2473037
+143,12,12,Here4friendship,Amanda,Seahawks D/ST,DST,SEA,-16026
+144,12,8,Minimal Research Involved,Benjamin,Browns D/ST,DST,CLE,-16005
+145,13,8,Minimal Research Involved,Benjamin,Ka'imi Fairbairn,K,HOU,2971573
+146,13,12,Here4friendship,Amanda,Harrison Mevis,K,LAR,4574716
+147,13,5,Count Choculitis,Kaleb,Vikings D/ST,DST,MIN,-16016
+148,13,2,Mister Congeniality,Nick,Rashid Shaheed,WR,SEA,4032473
+149,13,6,Keepinit2gthr,Aniela,Brian Robinson Jr.,RB,ATL,4241474
+150,13,13,Ghostie,Cheddarbowl,Hunter Henry,TE,NE,3046439
+151,13,1,Nobody's Perfect,Alli,Keaton Mitchell,RB,LAC,4596334
+152,13,11,Holder of the cheesehead,Grant,Malik Willis,QB,MIA,4242512
+153,13,10,Mozzarellen,Ellen,Tank Bigsby,RB,PHI,4429013
+154,13,4,The Thirsty Whales,Alex,Steelers D/ST,DST,PIT,-16023
+155,13,9,Great Noreaster,nora,Baker Mayfield,QB,TB,3052587
+156,13,3,MC Clap Yo Handz,Kristina,Chris Rodriguez Jr.,RB,JAX,4362619
+157,14,3,MC Clap Yo Handz,Kristina,Jalen McMillan,WR,TB,4430834
+158,14,9,Great Noreaster,nora,Juwan Johnson,TE,NO,3929645
+159,14,4,The Thirsty Whales,Alex,Trey Smack,K,GB,4869461
+160,14,10,Mozzarellen,Ellen,Eddy Pineiro,K,SF,4034949
+161,14,11,Holder of the cheesehead,Grant,Tyrone Tracy Jr.,RB,NYG,4360516
+162,14,1,Nobody's Perfect,Alli,Ollie Gordon II,RB,MIA,4711533
+163,14,13,Ghostie,Cheddarbowl,Ravens D/ST,DST,BAL,-16033
+164,14,6,Keepinit2gthr,Aniela,Eagles D/ST,DST,PHI,-16021
+165,14,2,Mister Congeniality,Nick,Patriots D/ST,DST,NE,-16017
+166,14,5,Count Choculitis,Kaleb,Zach Charbonnet,RB,SEA,4426385
+167,14,12,Here4friendship,Amanda,Jerry Jeudy,WR,CLE,4241463
+168,14,8,Minimal Research Involved,Benjamin,Denzel Boston,WR,CLE,4832800
+169,15,8,Minimal Research Involved,Benjamin,Mike Washington Jr.,RB,LV,4686658
+170,15,12,Here4friendship,Amanda,Tyler Shough,QB,NO,4360689
+171,15,5,Count Choculitis,Kaleb,Tre Tucker,WR,LV,4428718
+172,15,2,Mister Congeniality,Nick,Cam Little,K,JAX,4686361
+173,15,6,Keepinit2gthr,Aniela,Harrison Butker,K,KC,3055899
+174,15,13,Ghostie,Cheddarbowl,Jake Bates,K,DET,4689936
+175,15,1,Nobody's Perfect,Alli,Jaguars D/ST,DST,JAX,-16030
+176,15,11,Holder of the cheesehead,Grant,Evan McPherson,K,CIN,4360234
+177,15,10,Mozzarellen,Ellen,Lions D/ST,DST,DET,-16008
+178,15,4,The Thirsty Whales,Alex,De'Zhaun Stribling,WR,SF,4710714
+179,15,9,Great Noreaster,nora,Ray Davis,RB,BUF,4429501
+180,15,3,MC Clap Yo Handz,Kristina,Cairo Santos,K,CHI,17427

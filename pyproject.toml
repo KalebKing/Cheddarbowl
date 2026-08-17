@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cheddarbowl"
+version = "0.1.0"
+description = "Season-long fantasy-football draft & in-season analysis assistant (ESPN)"
+requires-python = ">=3.11"
+
+# Apps under apps/ and modules run via `python -m cheddarbowl...` resolve the package from the repo
+# root (apps carry a sys.path shim; module runs put cwd on the path). This section declares the
+# package for an optional editable install (`pip install -e .`) and for tooling.
+[tool.setuptools]
+packages = [
+    "cheddarbowl",
+    "cheddarbowl.draft",
+    "cheddarbowl.lib",
+    "cheddarbowl.ingest",
+    "cheddarbowl.ingest.legacy",
+    "cheddarbowl.projections",
+    "cheddarbowl.weekly",
+    "cheddarbowl.season",
+]
+
+[tool.pytest.ini_options]
+# Put the repo root on sys.path so tests can `from cheddarbowl... import ...` without an install.
+pythonpath = ["."]
+testpaths = ["tests"]
